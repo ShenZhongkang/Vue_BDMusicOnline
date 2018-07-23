@@ -7,4 +7,6 @@
 * Element-UI, ele UI
 * vue-awesome-swiper, Carousel
 * vue-pull-refresh, loadMore & update
-* vue-router
+* vue-router    
+---    
++ npm install / yarn
